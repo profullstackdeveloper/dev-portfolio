@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dev-portfolio/static/css/main.38cc3e25.css",
+    "main.js": "/dev-portfolio/static/js/main.0f672f89.js",
+    "static/js/415.4d6acbeb.chunk.js": "/dev-portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/dev-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/home-main.svg": "/dev-portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/dev-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/dev-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/Tajnarine_Ganpat_-_Software_Developer.pdf": "/dev-portfolio/static/media/Tajnarine_Ganpat_-_Software_Developer.4f6adb64b9b5d2e99b86.pdf",
+    "static/media/slotokinga.png": "/dev-portfolio/static/media/slotokinga.0ac927fd4482dda3d094.png",
+    "static/media/massage.png": "/dev-portfolio/static/media/massage.ff52afda20949f634357.png",
+    "static/media/avatar.svg": "/dev-portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/dev-portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/dev-portfolio/index.html",
+    "main.38cc3e25.css.map": "/dev-portfolio/static/css/main.38cc3e25.css.map",
+    "main.0f672f89.js.map": "/dev-portfolio/static/js/main.0f672f89.js.map",
+    "415.4d6acbeb.chunk.js.map": "/dev-portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/dev-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38cc3e25.css",
+    "static/js/main.0f672f89.js"
+  ]
+}
